@@ -25,8 +25,8 @@ A modern, full-stack SQLite database administration tool with authentication, re
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd react-sqlite-admin-dashboard
+   git clone https://github.com/ochtii/sqlite-admin-dashboard.git
+   cd sqlite-admin-dashboard
    ```
 
 2. **Install backend dependencies**
@@ -69,7 +69,7 @@ A modern, full-stack SQLite database administration tool with authentication, re
 ## 🏗️ Project Structure
 
 ```
-react-sqlite-admin-dashboard/
+sqlite-admin-dashboard/
 ├── backend/
 │   ├── config.json          # Authentication configuration
 │   ├── server.js            # Express.js server with SQLite integration
