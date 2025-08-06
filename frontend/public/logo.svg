@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" fill="#1f6feb" rx="20"/>
+  <g fill="white">
+    <!-- Database icon -->
+    <ellipse cx="96" cy="60" rx="50" ry="15"/>
+    <rect x="46" y="60" width="100" height="40"/>
+    <ellipse cx="96" cy="100" rx="50" ry="15"/>
+    <rect x="46" y="100" width="100" height="32"/>
+    <ellipse cx="96" cy="132" rx="50" ry="15"/>
+    
+    <!-- Admin tools overlay -->
+    <rect x="130" y="40" width="6" height="30" fill="#fb8500"/>
+    <rect x="145" y="45" width="6" height="25" fill="#fb8500"/>
+    <rect x="160" y="50" width="6" height="20" fill="#fb8500"/>
+  </g>
+</svg>
